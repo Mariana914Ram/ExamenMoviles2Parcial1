@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Solicitud de Tarjeta</string>
+
+    <string name="registrar">Registrar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="curp">Ingrese su CURP</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="apellido">Ingrese sus apellidos</string>
+    <string name="domicilio">Ingrese su domicilio</string>
+    <string name="ingresos">Ingrese su cantidad de ingresos</string>
+    <string name="tipo_tarjeta">Tipo tarjeta:</string>
+
+    <string name="beneficios">Beneficios</string>
+
+    <string name="cita">Cita</string>
+    <string name="cur">CURP: </string>
+    <string name="nom">Nombre: </string>
+    <string name="ape">Apellidos: </string>
+    <string name="dom">Domicilio: </string>
+    <string name="ing">Ingresos: </string>
+    <string name="tipo">Tarjeta: </string>
+    <string name="alarma">Colocar alarma: </string>
+    <string name="dia">Día</string>
+    <string name="hora">Hora</string>
+
+</resources>
